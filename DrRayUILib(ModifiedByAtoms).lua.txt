@@ -1953,8 +1953,8 @@ end
 
 return UILIB
 
-end;
-};
+end
+}.
 
 return require(DRR["93"]);
 
